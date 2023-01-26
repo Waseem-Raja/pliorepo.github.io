@@ -511,8 +511,9 @@ footer .text span a:hover{
 }
 #lap
 {
-  margin-top: -12%;
+  margin-top: -18%;
     margin-left: 73%;
+  display:none;
 }
 #code{
   color: white;
@@ -526,4 +527,7 @@ footer .text span a:hover{
 .responsive {
   width: 30%;
   height: auto;
+}
+#qo{
+  margin-top: 115px;
 }
